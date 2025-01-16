@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/humachewie/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/humachewie/ticket-lifecycle)
+  
 
 <h2>🤳Connect with me:</h2>
 
