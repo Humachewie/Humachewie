@@ -3,7 +3,6 @@
 <h2> 👨‍💻 Information Technology Projects: </h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/humachewie/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/humachewie/post-install-config)
   
 
